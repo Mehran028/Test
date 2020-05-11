@@ -1,0 +1,26 @@
+ 
+       
+	   table{
+	   
+	   border : 6px solid Gray;
+	   background-color : Silver;
+	   border : 10;
+	   cellpadding : 15;
+	   cellspacing :10;
+	   width : 50%;
+	   height : 50%;
+	   }
+	   
+	   th{
+	   
+	   
+	   border : 2px solid blue;
+	   
+	   }
+	   
+	   td{
+	   
+	   border : 2px solid magenta;
+	   
+	   }
+	 
